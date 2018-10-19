@@ -1,7 +1,3 @@
-aaaaaaaaaaaa
-sffffffffff
-seeeeeeeeeeee
-ddddddddddd
-gggggggggg
-hhhhhhhhhh
-ppppppppppp
+aaa
+bbb
+ccc
